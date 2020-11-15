@@ -1,0 +1,45 @@
+Initialize engine version: 5.1.2f1 (afd2369b692a)
+GfxDevice: creating device client; threaded=1
+d3d11: failed to create D3D11 device (0x80004005)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [igdumdim32.dll 6.19.15.4352]
+    Renderer: Intel(R) HD Graphics 6000
+    Vendor:   Intel
+    VRAM:     1536 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=1 SlowINTZ=0
+Begin MonoManager ReloadAssembly
+Platform assembly: Z:\Users\manasvijaywargiya\Desktop\Builds\frogsandlogs_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading Z:\Users\manasvijaywargiya\Desktop\Builds\frogsandlogs_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: Z:\Users\manasvijaywargiya\Desktop\Builds\frogsandlogs_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading Z:\Users\manasvijaywargiya\Desktop\Builds\frogsandlogs_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: Z:\Users\manasvijaywargiya\Desktop\Builds\frogsandlogs_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading Z:\Users\manasvijaywargiya\Desktop\Builds\frogsandlogs_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: Z:\Users\manasvijaywargiya\Desktop\Builds\frogsandlogs_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading Z:\Users\manasvijaywargiya\Desktop\Builds\frogsandlogs_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: Z:\Users\manasvijaywargiya\Desktop\Builds\frogsandlogs_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading Z:\Users\manasvijaywargiya\Desktop\Builds\frogsandlogs_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: Z:\Users\manasvijaywargiya\Desktop\Builds\frogsandlogs_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading Z:\Users\manasvijaywargiya\Desktop\Builds\frogsandlogs_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.162 seconds
+desktop: 1440x900 60Hz; virtual: 1440x900 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Touch support initialization failed: Call not implemented.
+.
+Platform assembly: Z:\Users\manasvijaywargiya\Desktop\Builds\frogsandlogs_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: Z:\Users\manasvijaywargiya\Desktop\Builds\frogsandlogs_Data\Managed\System.dll (this message is harmless)
+HDR in combination with Deferred Shading Rendering Path requires mixed bit depth MRTs, which are not available on this platform. This camera will render without HDR buffers.
+ 
+(Filename:  Line: 2726)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 10.656699 ms
+HDR in combination with Deferred Shading Rendering Path requires mixed bit depth MRTs, which are not available on this platform. This camera will render without HDR buffers.
+ 
+(Filename:  Line: 2726)
+
+
+Unloading 11 unused Assets to reduce memory usage. Loaded Objects now: 984.
+Total: 0.980000 ms (FindLiveObjects: 0.055900 ms CreateObjectMapping: 0.038100 ms MarkObjects: 0.498200 ms  DeleteObjects: 0.384400 ms)
+
